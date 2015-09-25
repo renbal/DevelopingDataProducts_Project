@@ -4,7 +4,7 @@ shinyUI(pageWithSidebar(
   sidebarPanel(width = 7,
     h3("Overview"),
     h5("This app was developed for the Coursera Developing Data Products course.
-       The purpose this app is to make predictions of the weight of a chick given 
+       The purpose of this app is to make predictions of the weight of a chick given 
        his age in days and the diet on which he is being fed. A prediction model 
        is build based on the ChickWeight dataset found in R, and the functions of
        the RandomForest package."),
